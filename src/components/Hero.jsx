@@ -1,5 +1,5 @@
 import React from 'react';
-import fotoMedico from 'medico.jpg'; // Altere o nome para o arquivo real
+import fotoMedico from src="images/medico.jpg"  // Altere o nome para o arquivo real
 
 export default function Hero() {
   return (
