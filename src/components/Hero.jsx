@@ -25,11 +25,11 @@ export default function Hero() {
         </div>
       </div>
 
-      {/* Bloco da Imagem */}
+      {/* Bloco da Imagem com URL pública estável */}
       <div className="flex-1 w-full max-w-md md:max-w-none">
         <img 
-          src="images/medico.jpg" 
-          alt="Médico no consultório" 
+          src="https://unsplash.com" 
+          alt="Médica sorrindo no consultório" 
           className="w-full h-auto rounded-3xl shadow-2xl object-cover aspect-[4/3]"
         />
       </div>
